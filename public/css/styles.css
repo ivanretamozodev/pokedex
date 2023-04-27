@@ -1,0 +1,10 @@
+body,html{
+    padding: 20px;
+    background-color: #191919;
+    color: #f2f2f2;
+}
+
+h1{
+    text-align: center;
+    font-size: 2.3rem;   
+}
